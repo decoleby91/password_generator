@@ -65,3 +65,9 @@ header {
     background: #e7e8eb;
     height: 2px;
 }
+
+.card-footer::after {
+    content: " ";
+    display: block;
+    clear: both;
+}
