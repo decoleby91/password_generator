@@ -57,3 +57,11 @@ header {
 .card-footer {
     text-align: center;
 }
+
+.card-footer::before {
+    content: " ";
+    display: block;
+    width: 100%;
+    background: #e7e8eb;
+    height: 2px;
+}
