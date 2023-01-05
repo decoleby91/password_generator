@@ -49,3 +49,7 @@ header {
     background: #e7e8eb;
     height: 2px;
 }
+
+.card-body {
+    min-height: 100px;
+}
