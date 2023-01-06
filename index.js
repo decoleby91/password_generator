@@ -94,7 +94,7 @@ function getPasswordOptions() {
 }
 
 // Function for getting a random element from an array
-function getRandom(arr) {
+function genRandomNum(arr) {
 
 }
 
