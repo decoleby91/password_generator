@@ -87,3 +87,5 @@ let upperCasedCharacters = [
     'Y',
     'Z'
 ];
+
+// Function to prompt user for password options
