@@ -115,3 +115,4 @@ passwordText.value = password;
 }
 
 // Add event listener to generate a button
+generateBtn.addEventListener('click', writePassword);
