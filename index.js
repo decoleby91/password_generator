@@ -98,7 +98,7 @@ function getRandom(arr) {
 
 }
 
-// Function for generating a random number from an array
+// Function for generating a random number from an array, I'll be using  'Math.random()' 
 
 
 // Function to generate password with user input
