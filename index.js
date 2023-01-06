@@ -98,7 +98,7 @@ function getRandom(arr) {
 
 }
 
-// Function for generating a random number from an array, I'll be using 'Math.random()'
+// Variable for generating a random number from an array, I'll be using 'Math.random()'
 let randomNumber = Math.floor(Math.random()*numericCharacters.length); 
 
 
