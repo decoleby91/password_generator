@@ -84,7 +84,7 @@ https://github.com/decoleby91/password_generator
 
 
 #### Some further instructions on how to handle the JAvaScript side of things
-- You will need to use concat (smush arrays together into one array)
+- You will need to use concatenate  (smash arrays together into one array)
 - Randomly select characters from new array and work out where to put them
 - Make sure you’re using functions and calling them
 - Console log things as you go and label them
