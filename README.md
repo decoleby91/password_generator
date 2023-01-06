@@ -79,6 +79,9 @@ You are required to submit the following for review:
 ###  URL of the deployed application
 https://decoleby91.github.io/password_generator/
 
+#### URL of the GitHub Repository 
+https://github.com/decoleby91/password_generator
+
 
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
