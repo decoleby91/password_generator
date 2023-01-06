@@ -90,5 +90,7 @@ let upperCasedCharacters = [
 
 // Function to prompt user for password options
 function getPasswordOptions() {
-    
+
 }
+
+// Function for getting a random element from an array
